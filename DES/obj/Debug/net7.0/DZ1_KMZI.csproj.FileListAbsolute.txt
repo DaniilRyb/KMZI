@@ -1,0 +1,15 @@
+/Users/daniil/RiderProjects/DZ1_KMZI/DZ1_KMZI/bin/Debug/net7.0/DZ1_KMZI
+/Users/daniil/RiderProjects/DZ1_KMZI/DZ1_KMZI/bin/Debug/net7.0/DZ1_KMZI.deps.json
+/Users/daniil/RiderProjects/DZ1_KMZI/DZ1_KMZI/bin/Debug/net7.0/DZ1_KMZI.runtimeconfig.json
+/Users/daniil/RiderProjects/DZ1_KMZI/DZ1_KMZI/bin/Debug/net7.0/DZ1_KMZI.dll
+/Users/daniil/RiderProjects/DZ1_KMZI/DZ1_KMZI/bin/Debug/net7.0/DZ1_KMZI.pdb
+/Users/daniil/RiderProjects/DZ1_KMZI/DZ1_KMZI/obj/Debug/net7.0/DZ1_KMZI.csproj.AssemblyReference.cache
+/Users/daniil/RiderProjects/DZ1_KMZI/DZ1_KMZI/obj/Debug/net7.0/DZ1_KMZI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniil/RiderProjects/DZ1_KMZI/DZ1_KMZI/obj/Debug/net7.0/DZ1_KMZI.AssemblyInfoInputs.cache
+/Users/daniil/RiderProjects/DZ1_KMZI/DZ1_KMZI/obj/Debug/net7.0/DZ1_KMZI.AssemblyInfo.cs
+/Users/daniil/RiderProjects/DZ1_KMZI/DZ1_KMZI/obj/Debug/net7.0/DZ1_KMZI.csproj.CoreCompileInputs.cache
+/Users/daniil/RiderProjects/DZ1_KMZI/DZ1_KMZI/obj/Debug/net7.0/DZ1_KMZI.dll
+/Users/daniil/RiderProjects/DZ1_KMZI/DZ1_KMZI/obj/Debug/net7.0/refint/DZ1_KMZI.dll
+/Users/daniil/RiderProjects/DZ1_KMZI/DZ1_KMZI/obj/Debug/net7.0/DZ1_KMZI.pdb
+/Users/daniil/RiderProjects/DZ1_KMZI/DZ1_KMZI/obj/Debug/net7.0/DZ1_KMZI.genruntimeconfig.cache
+/Users/daniil/RiderProjects/DZ1_KMZI/DZ1_KMZI/obj/Debug/net7.0/ref/DZ1_KMZI.dll

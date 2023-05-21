@@ -1,0 +1,15 @@
+/Users/daniil/RiderProjects/DZ1_KMZI/DES/bin/Debug/net7.0/DES
+/Users/daniil/RiderProjects/DZ1_KMZI/DES/bin/Debug/net7.0/DES.deps.json
+/Users/daniil/RiderProjects/DZ1_KMZI/DES/bin/Debug/net7.0/DES.runtimeconfig.json
+/Users/daniil/RiderProjects/DZ1_KMZI/DES/bin/Debug/net7.0/DES.dll
+/Users/daniil/RiderProjects/DZ1_KMZI/DES/bin/Debug/net7.0/DES.pdb
+/Users/daniil/RiderProjects/DZ1_KMZI/DES/obj/Debug/net7.0/DES.csproj.AssemblyReference.cache
+/Users/daniil/RiderProjects/DZ1_KMZI/DES/obj/Debug/net7.0/DES.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniil/RiderProjects/DZ1_KMZI/DES/obj/Debug/net7.0/DES.AssemblyInfoInputs.cache
+/Users/daniil/RiderProjects/DZ1_KMZI/DES/obj/Debug/net7.0/DES.AssemblyInfo.cs
+/Users/daniil/RiderProjects/DZ1_KMZI/DES/obj/Debug/net7.0/DES.csproj.CoreCompileInputs.cache
+/Users/daniil/RiderProjects/DZ1_KMZI/DES/obj/Debug/net7.0/DES.dll
+/Users/daniil/RiderProjects/DZ1_KMZI/DES/obj/Debug/net7.0/refint/DES.dll
+/Users/daniil/RiderProjects/DZ1_KMZI/DES/obj/Debug/net7.0/DES.pdb
+/Users/daniil/RiderProjects/DZ1_KMZI/DES/obj/Debug/net7.0/DES.genruntimeconfig.cache
+/Users/daniil/RiderProjects/DZ1_KMZI/DES/obj/Debug/net7.0/ref/DES.dll
