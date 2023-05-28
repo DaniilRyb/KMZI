@@ -63,6 +63,8 @@ public class DZ2_Exercise_7  {
         }
 
         Console.WriteLine("Каноническое разложение числа {0}:", m);
+        
+        
         List<int> primeFactors = GetPrimeFactors(m);
 
         for (int i = 0; i < primeFactors.Count; i++)

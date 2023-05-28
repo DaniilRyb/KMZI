@@ -4,7 +4,7 @@
  */
 public class Exercise_1
 {
-    public static int algorithmEvklid(int a, int b)
+    private static int algorithmEvklid(int a, int b)
     {
         // Приводим a и b к неотрицательным значениям
         a = Math.Abs(a);
@@ -25,7 +25,7 @@ public class Exercise_1
     public static void Exercise()
     {
         Console.WriteLine("Введите число a и b:");
-        int number_a, number_b = 0;
+        int number_a = 0, number_b = 0;
         string a = Console.ReadLine();
         number_a = Convert.ToInt32(a);
         string b = Console.ReadLine();
