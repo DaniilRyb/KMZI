@@ -1,0 +1,15 @@
+/Users/daniil/RiderProjects/DZ1_KMZI/RSA/obj/Debug/net7.0/RSA.csproj.AssemblyReference.cache
+/Users/daniil/RiderProjects/DZ1_KMZI/RSA/obj/Debug/net7.0/RSA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniil/RiderProjects/DZ1_KMZI/RSA/obj/Debug/net7.0/RSA.AssemblyInfoInputs.cache
+/Users/daniil/RiderProjects/DZ1_KMZI/RSA/obj/Debug/net7.0/RSA.AssemblyInfo.cs
+/Users/daniil/RiderProjects/DZ1_KMZI/RSA/obj/Debug/net7.0/RSA.csproj.CoreCompileInputs.cache
+/Users/daniil/RiderProjects/DZ1_KMZI/RSA/bin/Debug/net7.0/RSA
+/Users/daniil/RiderProjects/DZ1_KMZI/RSA/bin/Debug/net7.0/RSA.deps.json
+/Users/daniil/RiderProjects/DZ1_KMZI/RSA/bin/Debug/net7.0/RSA.runtimeconfig.json
+/Users/daniil/RiderProjects/DZ1_KMZI/RSA/bin/Debug/net7.0/RSA.dll
+/Users/daniil/RiderProjects/DZ1_KMZI/RSA/bin/Debug/net7.0/RSA.pdb
+/Users/daniil/RiderProjects/DZ1_KMZI/RSA/obj/Debug/net7.0/RSA.dll
+/Users/daniil/RiderProjects/DZ1_KMZI/RSA/obj/Debug/net7.0/refint/RSA.dll
+/Users/daniil/RiderProjects/DZ1_KMZI/RSA/obj/Debug/net7.0/RSA.pdb
+/Users/daniil/RiderProjects/DZ1_KMZI/RSA/obj/Debug/net7.0/RSA.genruntimeconfig.cache
+/Users/daniil/RiderProjects/DZ1_KMZI/RSA/obj/Debug/net7.0/ref/RSA.dll
